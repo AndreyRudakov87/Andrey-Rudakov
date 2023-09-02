@@ -1,1 +1,1 @@
-# Andrey-Rudakov
+Junior Business/ Data Analyst
