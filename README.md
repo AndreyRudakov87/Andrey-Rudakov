@@ -1,18 +1,15 @@
 Junior Business/ Data Analyst
-Обо мне
+Bio
 
-Привет! Меня зовут {name}, я начинающий аналитик данных. {about_me_brief} В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
-Навыки и технологии
+My name is Andrey Rudakov, and I am looking for Junior Business Analyst position. I am new grad from online school as a Data Analyst, however I believe school gave me a solid foundation for starting at junior position.
+Duing my study I gan following skills:
+    Data Analyst Tools: SQL, Excel:
+    Database managment systems: MySQL, PostgreSQL
+    Data Visualization: PowerBi
 
-    Инструменты анализа данных: SQL, Excel:
-    Языки программирования и библиотеки: Python, Pandas, math
-    Системы управления базами данных: MySQL, PostgreSQL
-    Средства визуализации данных: PowerBi, Matplotlib, seaborn
-    Инструменты для машинного обучения: scikit-learn, TensorFlow
+Projects:
 
-Проекты
-
-Проект 1: Калькулятор юнит-экономики онлайн-школы
+Project 1: Unit Economics Calculator for Online School
 
 Что нужно было сделать:
 
