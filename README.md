@@ -38,8 +38,9 @@ SQL queries to unite 2 tables (with student information and payement information
 
 Summary
 
-   More classes completed on weekdays than on weekends
-
+   More classes completed on weekdays than on weekends,
+   Some students have negative balances - necessary to check data base
+   Link 
 
 Contact information:
 
