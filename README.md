@@ -5,25 +5,25 @@ My name is Andrey Rudakov, and I am looking for Junior Business Analyst position
 Duing my study I gan following skills:
     Data Analyst Tools: SQL, Excel:
     Database managment systems: MySQL, PostgreSQL
-    Data Visualization: PowerBi
+
 
 Projects:
 
-Project 1: Unit Economics Calculator for Online School
+Project 1: Unit Economics Calculator for Movie Streaming Service 
 
 Task:
 
-   Task 1: Calculae the profit-margin of online-school:
-   Task 2: Forecast the future profit-margin
+   Task 1: Calculae the profit-margin of Movie Streaming Servise
+   Task 2: Develope scenario to get 25% profit margin
 
-Как решала(-а): краткое описание решения (автореферат)
+Solution:
+Calculated marketing expenses and fix cost expenses along with profit. Did calcilation for parameters such as Customer Acquisition Cost (CAC), retention and fix cost. After that with those numbes were able to estimate the profit-margin.
 
-    Ссылка на проект (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+    Link
+Conclusions:
 
-Выводы (итоги):
-
-    Итог №1
-    Итог №2
+    Summury №1: Profit Magin is -94%
+    Summary №2: 25% margin possible with an increase of retention and price for the service.
 
 
 Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
