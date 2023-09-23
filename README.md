@@ -11,10 +11,10 @@ Projects:
 
 Project 1: Unit Economics Calculator for Online School
 
-Что нужно было сделать:
+Task:
 
-    Задача №1
-    Задача №2.
+   Task 1: Calculae the profit-margin of online-school:
+   Task 2: Forecast the future profit-margin
 
 Как решала(-а): краткое описание решения (автореферат)
 
