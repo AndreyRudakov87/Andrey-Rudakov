@@ -40,7 +40,7 @@ Summary
 
    More classes completed on weekdays than on weekends,
    Some students have negative balances - necessary to check data base
-   Link 
+   Link https://github.com/AndreyRudakov87/Andrey-Rudakov/blob/main/SQL%20Query.docx
 
 Contact information:
 
