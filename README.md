@@ -19,7 +19,7 @@ Task:
 Solution:
 Calculated marketing expenses and fix cost expenses along with profit. Did calcilation for parameters such as Customer Acquisition Cost (CAC), retention and fix cost. After that with those numbes were able to estimate the profit-margin.
 
-    Link https://github.com/AndreyRudakov87/Andrey-Rudakov/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201.xlsx 
+    Link  https://github.com/AndreyRudakov87/Andrey-Rudakov/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201.xlsx  
 Conclusions:
 
     Summury №1: Profit Magin is -94%
